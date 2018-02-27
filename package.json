@@ -2,7 +2,7 @@
   "name": "dump-eth-key",
   "version": "1.0.0",
   "description": "",
-  "main": "dumpkey.js",
+  "main": "dump-privkey.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
